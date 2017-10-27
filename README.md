@@ -13,4 +13,4 @@ npm run dist
 ```
 
 ## License
-ISC
+MIT
