@@ -5,6 +5,9 @@
 <script>
   import Demo from '../src/demo/demo'
   export default {
-    name: 'app'
+    name: 'app',
+    components: {
+      Demo
+    }
   };
 </script>
