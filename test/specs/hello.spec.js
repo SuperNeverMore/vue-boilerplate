@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import App from 'src/app';
+import App from 'examples/demo';
 
 describe('App.vue', () => {
   it('should render correct contents', () => {
