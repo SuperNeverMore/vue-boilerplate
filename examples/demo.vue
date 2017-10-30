@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  import Demo from '../src/demo/demo'
+  import Demo from '../src/demo/demo';
   export default {
     name: 'app',
     components: {
